@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=f, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body  bgcolor="brown">
+    <h1 align="center"><i>Shop Time</i></h1>
+    <h2 align="center"><i>One stop for all your needs</i></h2>
+    <p>Here we are using meta tags like charset,name,author etc.</p>
+
+</body>
+</html>
