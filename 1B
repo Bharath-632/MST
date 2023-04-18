@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=f, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body  bgcolor="">
+    <h1 align="center"><i>Shop Time</i></h1>
+    <h2 align="center"><i>One stop for all your needs</i></h2>
+    <nav align="center"><h3>Home || Login || Register || Wish list || My Orders|| Help</h3></nav>
+    <main>
+     <section><p>Clothing</p></section> 
+     <section><p>Footwear</p></section>
+     <section><p>Electronics</p></section>
+     <section><p>Furniture</p></section>
+     <section><p>Cosmetics</p></section>
+
+    </main>
+    <article>
+        <h1>Special Offer</h1>
+        <aside>
+            <p>
+                Download oue app at playstore and win exciting prizes
+            </p>
+        </aside>
+
+    </article>
+
+</body>
+<footer>
+    Copyright@way for 2020
+</footer>
+</html>
